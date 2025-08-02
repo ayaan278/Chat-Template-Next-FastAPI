@@ -1,5 +1,31 @@
+# Environment variables
+*.env
+.env.development
+.env.staging
+.env.production
+.venv
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtual environment
+*/venv/
+```
+/.idea
+.idea/Briefly.AI-BE.iml
+/app/api/auth/__pycache__
+
+uploads/
+
 # Byte-compiled / optimized / DLL files
-__pycache__/
+*/__pycache__/
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/.pyc
+app/*/.pyc
+app/*/*/.pyc
 *.py[cod]
 *$py.class
 
@@ -94,12 +120,6 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
-# UV
-#   Similar to Pipfile.lock, it is generally recommended to include uv.lock in version control.
-#   This is especially recommended for binary packages to ensure reproducibility, and is more
-#   commonly ignored for libraries.
-#uv.lock
-
 # poetry
 #   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
 #   This is especially recommended for binary packages to ensure reproducibility, and is more
@@ -127,14 +147,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+
 
 # Spyder project settings
 .spyderproject
@@ -167,8 +180,63 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ruff stuff:
-.ruff_cache/
+# Visual Studio Code
+settings.json
 
-# PyPI configuration file
-.pypirc
+# Ignore compiled Python files
+*.pyc
+*.cpython-310.pyc
+*.cpython-310.opt-1.pyc
+/app/api/auth/__pycache__
+credentials.json
+*.json
+*.pyc
+*.pyc
+*.pyc
+/app/api/auth/__pycache__
+.env.old
+*.prod
+*.prod
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+*/node_modules
+*/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+*/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts

@@ -1,0 +1,47 @@
+Welcome to AIstore – an AI SaaS platform offering Agents for CRM, HR, and Accounting.
+
+- Free trial lasts 30 days.
+- You can cancel anytime from the dashboard.
+- CRM Agent automates lead follow-ups.
+- HR Agent helps with employee onboarding.
+- Accounting Agent generates expense reports automatically.
+- AIstore is an AI SaaS platform offering CRM, HR, and Accounting Agents.
+- Free trial lasts 30 days.
+- You can cancel anytime from the dashboard.
+- CRM Agent automates lead follow-ups.
+- HR Agent helps with employee onboarding.
+- Accounting Agent generates expense reports automatically.
+- AIEMS CRM enhances customer relationships and streamlines sales processes.
+- Designed for sales and marketing teams to manage leads, deals, and contacts.
+- Visual dashboard displays key metrics and real-time data.
+- Platform is fully customizable to match your business needs.
+- Helps manage tasks, appointments, and deadlines efficiently.
+- Increases productivity with automated workflows and smart notifications.
+- Tracks sales opportunities and conversion progress.
+- Supports external integrations like Property Finder, Bayut, Dubizzle, Google Meet, and Call Gear.
+- Basic Plan – AED 210 / Month
+- Up to 5 users, 1 company license.
+- 5,000 leads.
+- Email integration, lead pipeline, task and calendar management.
+- Shared server.
+- Support: 9 AM to 5 PM (Local Time, Working Days).
+- AIEMS CRM also offers a 14-day free trial.
+- No credit card required for signup.
+- You can explore all major features during the trial.
+- Cancel anytime from your dashboard.
+- Service access will be restored once the issue causing suspension is resolved.
+- No refunds or credits are issued for suspensions due to client violations or non-payment.
+- Reactivation fees may apply if accounts are restored after suspension.
+- Clients receive a non-exclusive, non-transferable license to use the Hosted Service for internal business purposes during the subscription term.
+- The license is limited to the number of employees or contractors stated in the agreement, and may not be used by competitors or external parties.
+- Hosted Service includes unpublished software, confidential trade secrets, and proprietary information owned by AIEMS or its licensors.
+- Employee includes staff and independent contractors who are not competitors and have signed agreements consistent with AIEMS policies.
+- Use AIEMS services to build competing products.
+- Share, sell, lease, or transfer the Hosted Service to third parties.
+- Allow more than one person to share a user license.
+- Use the platform to run a service bureau.
+- Modify, decompile, reverse-engineer, or create derivative works from the software.
+- Violate laws or intellectual property rights through the Hosted Service.
+- Each user will receive a unique password, which must be kept confidential.
+- Clients are responsible for all actions performed using assigned passwords.
+- AIEMS must be notified immediately in case of unauthorized access or if a user leaves the company.
